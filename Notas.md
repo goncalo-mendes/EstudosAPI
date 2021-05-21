@@ -31,3 +31,6 @@ odata é mais antigo que Graphql
 
 basicamente segui o que estava na microsoft learn
 
+ e tambem assisti ao https://www.youtube.com/watch?v=sWJayOop4k8 e fiz a api que ele fez e tentei perceber o porquê de ele ter feito certas paginas
+ a maneira que ele fez deixa um bocado mais clean mas deve haver outras formas de organizar o código
+
